@@ -27,8 +27,6 @@
 ---
 
 ## 📫 Como me encontrar
-- 🌍 Brasil  
 - 💼 [LinkedIn](https://www.linkedin.com/in/william-gesner/)  
 - 📷 [Instagram](https://www.instagram.com/williamgesner/)  
 - 📧 william.gesner@outlook.com 
-- 🐙 [GitHub](https://github.com/Williamgesner
