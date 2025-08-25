@@ -1,16 +1,34 @@
-## Hi there 👋
+# 🧑🏻‍💻 William Gesner  
 
-<!--
-**Williamgesner/Williamgesner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🔎 Sobre mim
+- 🚀 Em transição de carreira, construindo minha jornada em Engenharia de Dados
+- 📚 Atualmente estudando Python, SQL, Pandas, AWS, Modelagem de Dados e Git/GitHub
+- 🎯 Interesses voltados a Engenharia de Dados - ETL, Data Warehousing e aplicações de Machine Learning
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Linguagens e Tecnologias
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
+
+---
+
+## 📌 Projetos em destaque
+- 📊 [Cleaning bank marketing campaign data
+](https://github.com/Williamgesner/cleaning-bank-marketing-campaign-data)
+- 🛠 [Airbnb market trends](https://github.com/Williamgesner/airbnb-market-trends))
+
+---
+
+## 📫 Como me encontrar
+- 🌍 Brasil  
+- 💼 [LinkedIn](https://www.linkedin.com/in/william-gesner/)  
+- 📷 [Instagram](https://www.instagram.com/williamgesner/)  
+- 📧 william.gesner@outlook.com 
+- 🐙 [GitHub](https://github.com/Williamgesner
