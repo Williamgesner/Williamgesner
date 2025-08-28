@@ -22,7 +22,7 @@
 ## 📌 Projetos em destaque
 - 📊 [Cleaning bank marketing campaign data
 ](https://github.com/Williamgesner/cleaning-bank-marketing-campaign-data)
-- 🛠 [Airbnb market trends](https://github.com/Williamgesner/airbnb-market-trends))
+- 🛠 [Airbnb market trends](https://github.com/Williamgesner/airbnb-market-trends)
 
 ---
 
