@@ -1,7 +1,7 @@
 # 🧑🏻‍💻 William Gesner  
 
 ## 🔎 Sobre mim
-- 🚀 Em transição de carreira, construindo minha jornada em Engenharia de Dados
+- 🚀 Engenheiro de Dados
 - 📚 Atualmente estudando Python, SQL, Pandas, AWS, Modelagem de Dados e Git/GitHub
 - 🎯 Interesses voltados a Engenharia de Dados - ETL, Data Warehousing e aplicações de Machine Learning
 
@@ -21,6 +21,7 @@
 ---
 
 ## 📌 Projetos em destaque
+- 📊 [ELT-Project-API-Extract](https://github.com/Williamgesner/ELT-Project-API-Extract)
 - 📊 [Cleaning bank marketing campaign data
 ](https://github.com/Williamgesner/cleaning-bank-marketing-campaign-data)
 - 🛠 [Airbnb market trends](https://github.com/Williamgesner/airbnb-market-trends)
