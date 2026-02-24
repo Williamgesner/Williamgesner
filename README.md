@@ -2,7 +2,7 @@
 
 ## 🔎 Sobre mim
 - 🚀 Engenheiro de Dados
-- 📚 Python, SQL, Pandas, AWS, Modelagem de Dados e Git/GitHub
+- 📚 Python, SQL, Pandas, AWS, Arquitetura ELT/ELT, Otimização de Custos em Cloud, Modelagem de Dados e Versionamento de código com Git/GitHub
 - 🎯 Interesses voltados a Engenharia de Dados - ETL, Data Warehousing e aplicações de Machine Learning
 
 ---
