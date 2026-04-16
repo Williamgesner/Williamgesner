@@ -12,12 +12,12 @@
 [![Pandas](https://img.shields.io/badge/Pandas-150458?&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-14-316192?&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
 [![AWS](https://img.shields.io/badge/AWS-RDS%20%7C%20EC2%20%7C%20Lambda%20%7C%20SNS-FF9900.svg)](https://aws.amazon.com/)
+[![Databricks](https://img.shields.io/badge/Databricks-FF3621?&logo=databricks&logoColor=white)](https://www.databricks.com/)
 [![Power BI](https://img.shields.io/badge/Power%20BI-Import-F2C811.svg)](https://powerbi.microsoft.com/)
 [![Git](https://img.shields.io/badge/Git-F05032?&logo=git&logoColor=white)](https://git-scm.com/)
 <!--![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-0DA960?style=for-the-badge&logo=apacheairflow&logoColor=white)-->
 <!--![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)-->
 <!--[SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)-->
-
 
 ---
 
