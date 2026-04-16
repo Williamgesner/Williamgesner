@@ -23,9 +23,10 @@
 
 ## 📌 Projetos em destaque
 - 📊 [ELT-Project-API-Extract](https://github.com/Williamgesner/ELT-Project-API-Extract)
+- 📊 [ELT-Project-Databricks](\https://github.com/Williamgesner/ELT-Project-Databricks)
 - 📊 [Cleaning bank marketing campaign data
 ](https://github.com/Williamgesner/cleaning-bank-marketing-campaign-data)
-- 🛠 [Airbnb market trends](https://github.com/Williamgesner/airbnb-market-trends)
+- 📊 [Airbnb market trends](https://github.com/Williamgesner/airbnb-market-trends)
 
 ---
 
